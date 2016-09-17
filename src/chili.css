@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color: #6BCAE2;
+    -fx-background-radius: 20px;
+}
+.button{
+    -fx-background-radius: 10px;
+    -fx-cursor: hand;
+}
+text-field{
+    -fx-background-radius: 10px;
+}
+.menu-bar{
+    -fx-background-color: #0097A7;
+    -fx-border-style: none;
+    -fx-background-radius: 20px;
+}
+.menu{
+    -fx-cursor: hand;
+}
+.menu-item{
+    -fx-cursor: hand;
+}
